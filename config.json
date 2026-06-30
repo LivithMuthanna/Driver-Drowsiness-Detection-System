@@ -1,0 +1,12 @@
+{
+    "ear_threshold": 0.21,
+    "mar_threshold": 0.6,
+    "ear_consec_frames": 18,
+    "alarm_volume": 0.8,
+    "alarm_enabled": true,
+    "camera_index": 0,
+    "detection_sensitivity": "medium",
+    "head_yaw_threshold": 18.0,
+    "head_pitch_threshold": 15.0,
+    "log_csv_path": "logs/session_log.csv"
+}
